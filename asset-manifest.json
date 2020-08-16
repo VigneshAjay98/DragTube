@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DragTube/static/css/main.1de16a8a.chunk.css",
+    "main.js": "/DragTube/static/js/main.ac562a84.chunk.js",
+    "main.js.map": "/DragTube/static/js/main.ac562a84.chunk.js.map",
+    "runtime-main.js": "/DragTube/static/js/runtime-main.295e1e3b.js",
+    "runtime-main.js.map": "/DragTube/static/js/runtime-main.295e1e3b.js.map",
+    "static/js/2.cb1c89ae.chunk.js": "/DragTube/static/js/2.cb1c89ae.chunk.js",
+    "static/js/2.cb1c89ae.chunk.js.map": "/DragTube/static/js/2.cb1c89ae.chunk.js.map",
+    "index.html": "/DragTube/index.html",
+    "precache-manifest.31bc5efb189eff17ee71b10c44c4c9ba.js": "/DragTube/precache-manifest.31bc5efb189eff17ee71b10c44c4c9ba.js",
+    "service-worker.js": "/DragTube/service-worker.js",
+    "static/css/main.1de16a8a.chunk.css.map": "/DragTube/static/css/main.1de16a8a.chunk.css.map",
+    "static/js/2.cb1c89ae.chunk.js.LICENSE.txt": "/DragTube/static/js/2.cb1c89ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.295e1e3b.js",
+    "static/js/2.cb1c89ae.chunk.js",
+    "static/css/main.1de16a8a.chunk.css",
+    "static/js/main.ac562a84.chunk.js"
+  ]
+}
